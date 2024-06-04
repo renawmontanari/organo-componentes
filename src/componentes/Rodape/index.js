@@ -27,7 +27,7 @@ const Rodape = () => {
        </section>
        <section>
         <p>
-            Desenvolvido por Alura.
+            Desenvolvido por Renan W. Montanari - T6 ONE - Alura.
         </p>
        </section>
     </footer>)
