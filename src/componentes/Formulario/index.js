@@ -22,6 +22,9 @@ const Formulario = ({ aoCadastrar, times, cadastrarTime }) => {
             imagem,
             time
         })
+
+        setNome('')
+        setCargo('')
     }
 
     return (
